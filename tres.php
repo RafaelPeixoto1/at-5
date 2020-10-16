@@ -23,6 +23,7 @@ print "Em PHP, a declaração de uma variável implica a precedência de um car�
    echo"<br>";
 echo"<br>";
 print "O professor chegou perto do aluno e exclamou: “se não estudares, vais reprovar de ano!”.";
+
 echo"<br>";
 echo"<br>";
 $txt1="O professor";
